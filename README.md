@@ -25,7 +25,7 @@
 
 ###
 
-<img style="float: right; height: 150px;" src="https://media1.tenor.com/m/ZAMoMuQgf9UAAAAd/mapache-pedro.gif" />
+<img align="right" width="200" height="auto" src="https://media1.tenor.com/m/ZAMoMuQgf9UAAAAd/mapache-pedro.gif" />
 
 ###
 
