@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋😁, I'm Luis, a developer hailing from Mexico who codes by day and games by night. Thank you for stopping by!</h2>
+<h2 align="left">Hello 👋😁, I'm Luis, a developer hailing from Mexico 🇲🇽 who codes by day and games by night. Thank you for stopping by!</h2>
 
 ###
 
