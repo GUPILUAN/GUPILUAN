@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GUPILUAN/GUPILUAN/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GUPILUAN/GUPILUAN/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
