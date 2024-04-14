@@ -42,10 +42,11 @@
   <a href="mailto:gupiluan@hotmail.com?subject=Contacting from GitHub" >
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-
-  ###
-  <img src="https://raw.githubusercontent.com/GUPILUAN/GUPILUAN/output/snake.svg" alt="Snake animation" />
 </div>
+
+###
+
+<img align="left" src="https://raw.githubusercontent.com/GUPILUAN/GUPILUAN/output/snake.svg" alt="Snake animation" />
 
 ###
 
